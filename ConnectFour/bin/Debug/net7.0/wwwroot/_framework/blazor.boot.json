@@ -1,7 +1,7 @@
 {
   "entryAssembly": "ConnectFour",
   "resources": {
-    "hash": "sha256-RBJ4KJwxdO5lAv3TFrdNJQC6A2GVm7APK8Zf9fN8dGU=",
+    "hash": "sha256-11yMUoF9cEyg1gPRNGuV/elOGnwkzyG4tTDKCqKzfGA=",
     "runtime": {
       "dotnet.7.0.14.y4zuwgpn3m.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-YcsJInaT/kw3Vrm+SESegPxvT/Lr9RE6rE/KnxWIIc0=",
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
-      "ConnectFour.dll": "sha256-Ou4P2p3eJ6m0++pBEX1De65Wcxda+acxY+Lcnxnbpc0="
+      "ConnectFour.dll": "sha256-LYy/rAjIwd9jmXu+CLeHYcRvhKUAPnMP9W7aWSGJI7w="
     },
     "pdb": {
-      "ConnectFour.pdb": "sha256-RrTNaz6rgIXA5H4CuvfO8bCnrvILgqKEsGxbPaarsow="
+      "ConnectFour.pdb": "sha256-XBQQR/2kD7J9yP7trQZrdNcbi6Mvk4dj8v7zRO/8BNE="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

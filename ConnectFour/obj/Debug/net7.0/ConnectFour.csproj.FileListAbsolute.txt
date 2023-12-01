@@ -826,3 +826,4 @@
 /Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/obj/Debug/net7.0/refint/ConnectFour.dll
 /Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.pdb
 /Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/obj/Debug/net7.0/ref/ConnectFour.dll
+/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/obj/Debug/net7.0/scopedcss/Shared/Board.razor.rz.scp.css
