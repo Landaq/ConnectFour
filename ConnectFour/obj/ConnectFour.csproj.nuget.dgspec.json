@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ConnectFour/ConnectFour/ConnectFour.csproj": {}
+    "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj": {}
   },
   "projects": {
-    "/workspaces/ConnectFour/ConnectFour/ConnectFour.csproj": {
+    "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ConnectFour/ConnectFour/ConnectFour.csproj",
+        "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj",
         "projectName": "ConnectFour",
-        "projectPath": "/workspaces/ConnectFour/ConnectFour/ConnectFour.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ConnectFour/ConnectFour/obj/",
+        "projectPath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj",
+        "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
+        "outputPath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -46,6 +46,24 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -61,8 +79,16 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.9, 7.0.9]"
+              "version": "[7.0.14, 7.0.14]"
             }
           ],
           "frameworkReferences": {
@@ -70,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
