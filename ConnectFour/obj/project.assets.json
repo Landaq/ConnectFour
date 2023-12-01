@@ -1679,11 +1679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj",
+      "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour-1/ConnectFour/ConnectFour.csproj",
       "projectName": "ConnectFour",
-      "projectPath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj",
+      "projectPath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour-1/ConnectFour/ConnectFour.csproj",
       "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
-      "outputPath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/obj/",
+      "outputPath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour-1/ConnectFour/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"

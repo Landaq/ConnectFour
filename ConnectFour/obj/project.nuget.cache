@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGi7gvoEL0D95hRQRk4jjlvI2t5XOHlgzi6N58R0gqF1gWHF5OOG8OBGhfy30DvePkfCXiZ1tqpDjViQIJdxpQ==",
+  "dgSpecHash": "tSRL10caYpsiw6dz67iAX+AtXfYpZoGlSbs4nuBJ7NzfeqsImPRYIiegrf00QoLUrKW5ORgrrxvUBhxU4wHi/w==",
   "success": true,
-  "projectFilePath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour/ConnectFour/ConnectFour.csproj",
+  "projectFilePath": "/Users/wonkeuncho/Desktop/Folder/BlazingPizzaSite/ConnectFour-1/ConnectFour/ConnectFour.csproj",
   "expectedPackageFiles": [
     "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.authorization/7.0.9/microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.components/7.0.9/microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
